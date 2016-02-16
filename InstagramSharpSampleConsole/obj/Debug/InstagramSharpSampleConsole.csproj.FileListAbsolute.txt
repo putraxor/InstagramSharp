@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\bin\Debug\InstagramSharpSampleConsole.exe.config
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\bin\Debug\InstagramSharpSampleConsole.exe
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\bin\Debug\InstagramSharpSampleConsole.pdb
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\bin\Debug\InstagramSharp.pdb
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\obj\Debug\InstagramSharpSampleConsole.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\obj\Debug\InstagramSharpSampleConsole.exe
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\obj\Debug\InstagramSharpSampleConsole.pdb
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharpSampleConsole\bin\Debug\InstagramSharp.dll

@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharp\bin\Debug\InstagramSharp.pdb
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharp\obj\Debug\InstagramSharp.pdb
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharp\bin\Debug\InstagramSharp.dll
+C:\Users\Nick\Documents\GitLab\InstagramSharp\InstagramSharp\obj\Debug\InstagramSharp.dll
