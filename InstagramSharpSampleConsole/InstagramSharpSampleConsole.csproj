@@ -34,10 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="InstagramSharp">
-      <HintPath>..\InstagramSharp\bin\Debug\InstagramSharp.dll</HintPath>
+      <HintPath>..\InstagramSharp\bin\Release\InstagramSharp.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\InstagramSharp\bin\Debug\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\InstagramSharp\bin\Release\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
